@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Cybersecurity @ Northeastern 2027
+# Cybersecurity @ Northeastern c.o. 2027
 Currently just software projects.
 Hopefully I can post some cyber-related stuff here soon...
