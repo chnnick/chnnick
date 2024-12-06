@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img width="281" alt="狗" src="https://github.com/user-attachments/assets/d532cfd3-d43d-429c-a85b-f5c6a5a6e0b7">
+
 <!--
 **chnnick/chnnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
