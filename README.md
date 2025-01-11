@@ -1,6 +1,6 @@
 ### Hi there I'm Nick 👋
 
-<!-- <img width="281" alt="狗" src="狗.png"> -->
+<img width="281" alt="狗" src="狗.png">
 
 <!--
 **chnnick/chnnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
