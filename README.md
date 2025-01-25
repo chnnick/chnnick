@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 # Cybersecurity @ Northeastern 2027
-Currently just software projects.
-Hopefully I can post some cyber-related stuff here soon...
+I have a strong background in computer science and enjoy applying the skills I learn in class to projects like these!
+More cybersecurity-related projects coming soon! 
