@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 -->
 
 # Cybersecurity @ Northeastern 2027
-- I have a strong background in computer science and enjoy applying the skills I learn in class to projects like these!
-- More cybersecurity-related projects coming soon! 
+I have a strong background in computer science and love applying the skills from class to projects like these! <br>
+More cybersecurity-related projects coming soon! <br>
+📫 Lets connect! @ <a href="https://www.linkedin.com/in/nckchen/">LinkedIn</a>
+
+
