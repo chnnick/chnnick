@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Cybersecurity @ Northeastern 2027
+# Cybersecurity @ Northeastern 
+# Graduating Spring 2027
 I have a strong background in computer science and love applying the skills from class to projects like these! <br>
 More cybersecurity-related projects coming soon! <br>
 📫 Lets connect! @ <a href="https://www.linkedin.com/in/nckchen/">LinkedIn</a> <br>
