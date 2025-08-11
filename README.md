@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 I have a strong background in computer science and love applying the skills from class to projects like these! <br>
 More cybersecurity-related projects coming soon! <br>
 📫 Lets connect! @ <a href="https://www.linkedin.com/in/nckchen/">LinkedIn</a> <br>
-📝 View my resume @ <a href="https://docs.google.com/document/d/1RPfQKrDX9pCKupcWxpW_WZPaFmOmgdQHuF0kYq8GHY4/edit?tab=t.0">Docs</a>
+📝 View my resume @ [Nick Resume.pdf](https://github.com/user-attachments/files/21708978/Nick.Resume.pdf)
+
 
 
