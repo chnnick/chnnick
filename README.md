@@ -1,4 +1,4 @@
-<img width="281" alt="狗" src="狗.png"> 
+<!-- <img width="281" alt="狗" src="狗.png">  -->
 
 # Cybersecurity @ Northeastern 
 ## Graduating Spring 2027
