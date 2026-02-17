@@ -2,8 +2,8 @@
 
 # Cybersecurity @ Northeastern 
 ## Graduating Spring 2027
-I have a strong background in computer science and love applying the skills from class to projects like these! <br>
-More cybersecurity-related projects coming soon! <br>
+I build, learn, and take action. <br>
+I have a strong background in computer science, a love for cybersecurity, and enjoy applying the skills from class to projects like these! <br>
 
 Currently:
 - President @ FirstByte
