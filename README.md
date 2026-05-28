@@ -7,11 +7,11 @@ I have a strong background in computer science, a love for cybersecurity, and en
 
 Currently:
 - President @ FirstByte
-- SWE @ Code4Community
-- Cybersecurity Researcher @ MonIOTr Reasearch Group
+- SWE -> Tech Lead @ Code4Community
 
 Previously:
 - Cybersecurity and Technology Auditor @ Liberty Mutual Insurance
+- Cybersecurity Researcher @ MonIOTr Reasearch Group
 
 👀 <a href="https://nckchen.dev">sh</a>
 
