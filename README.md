@@ -14,7 +14,9 @@
 ## 👨‍💻 About Me
 
 BS Cybersecurity · Minor in Law & Public Policy · ISC2 Certified in Cybersecurity
+<br>
 Interested in the intersection between Cybersecurity and Software Development. 
+<br>
 I learn, build, and take action.
 
 ---
@@ -27,8 +29,6 @@ I learn, build, and take action.
 
 </div>
 
----
-
 **Security Tools**  
 ![Burp Suite](https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
@@ -40,21 +40,21 @@ I learn, build, and take action.
 
 ## 💼 Experience
 
-<details>
+<div>
 <summary><b>Incoming Security Risk Analyst Co-op · Klaviyo</b> &nbsp;|&nbsp; Jul 2026 – Dec 2026</summary>
-</details>
+</div>
 
-<details>
+<div>
 <summary><b>Software Engineer → Technical Lead · Code4Community</b> &nbsp;|&nbsp; May 2025 – Present</summary>
-</details>
+</div>
 
-<details>
+<div>
 <summary><b>Cybersecurity & Technology Audit Co-op · Liberty Mutual Insurance</b> &nbsp;|&nbsp; Jul 2025 – Dec 2025</summary>
-</details>
+</div>
 
-<details>
+<div>
 <summary><b>Cybersecurity Research Assistant · MonIOTr Lab @ Northeastern</b> &nbsp;|&nbsp; Jan 2026 – May 2026</summary>
-</details>
+</div>
 
 <img width="281" alt="狗" src="狗.png">
 <div align="center">
