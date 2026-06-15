@@ -15,7 +15,7 @@
 
 BS Cybersecurity · Minor in Law & Public Policy · ISC2 Certified in Cybersecurity
 <br>
-Interested in the intersection between Cybersecurity and Software Development. 
+Interested in the intersection between Cybersecurity, Software Development, and Social Impact.
 <br>
 I learn, build, and take action.
 
@@ -29,9 +29,13 @@ I learn, build, and take action.
 
 </div>
 
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
 **Security Tools**  
 ![Burp Suite](https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214B7F?style=flat-square&logo=nmap&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
@@ -62,5 +66,5 @@ I learn, build, and take action.
 
 <img width="281" alt="狗" src="狗.png">
 <div align="center">
-<sub>Open to full time and internship security roles, research collabs, and CTF teams! · reach me at chen.nich@northeastern.edu</sub>
+<sub>Graduating Spring 2027 · Open to full time and internship security roles, research collabs, and CTF teams! · reach me at chen.nich@northeastern.edu</sub>
 </div>
