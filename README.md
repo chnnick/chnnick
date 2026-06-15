@@ -45,6 +45,10 @@ I learn, build, and take action.
 </div>
 
 <div>
+<summary><b>President · FirstByte</b> &nbsp;|&nbsp; May 2025 – Present</summary>
+</div>
+
+<div>
 <summary><b>Software Engineer → Technical Lead · Code4Community</b> &nbsp;|&nbsp; May 2025 – Present</summary>
 </div>
 
