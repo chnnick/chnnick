@@ -24,7 +24,7 @@ I learn, build, and take action.
 ## 💼 Experience
 
 <div>
-<summary><b>Incoming Security Risk Analyst Co-op · Klaviyo</b> &nbsp;|&nbsp; Jul 2026 – Dec 2026</summary>
+<summary><b>Security Risk Analyst Co-op · Klaviyo</b> &nbsp;|&nbsp; Jul 2026 – Dec 2026</summary>
 </div>
 
 <div>
